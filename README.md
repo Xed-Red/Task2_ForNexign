@@ -1,4 +1,4 @@
 # Task2_ForNexign
 ## Запуск теста
 ```bash
-pytest ./test.py
+pytest -s .\test.py
