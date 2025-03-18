@@ -1,1 +1,4 @@
-"# Task2_ForNexign" 
+# Task2_ForNexign
+## Запуск теста
+```bash
+pytest ./test.py
